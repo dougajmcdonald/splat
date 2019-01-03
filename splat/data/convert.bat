@@ -1,0 +1,1 @@
+for /f %%f in ('dir /b C:\SPLAT\data\srtm3') do C:/SPLAT/srtm2sdf "C:/SPLAT/data/sdf/%%f"
