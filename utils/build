@@ -31,7 +31,7 @@ build_usgs2sdf()
 build_srtm2sdf()
 {
 	echo -n "Compiling srtm2sdf... "
-	cc -O2 -s -fomit-frame-pointer srtm2sdf.c -lbz2 -o srtm2sdf
+	cc -O2 -s -I"C:\bzip2\include" -L"C:\bzip2\lib" -fomit-frame-pointer srtm2sdf.c -lbz2 -o srtm2sdf
 	rm -f srtm2sdf-hd
 	ln -s srtm2sdf srtm2sdf-hd
 
@@ -46,7 +46,7 @@ build_srtm2sdf()
 build_fontdata()
 {
 	echo -n "Compiling fontdata... "
-	cc -O2 -s -fomit-frame-pointer fontdata.c -lz -o fontdata
+	cc -O2 -s -I"C:\zlib\include" -L"C:\zlib\lib" -fomit-frame-pointer fontdata.c -lz -o fontdata
 
 	if [ -x fontdata ]; then
 		echo "Done!"
