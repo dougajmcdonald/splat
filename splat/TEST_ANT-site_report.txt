@@ -1,0 +1,21 @@
+
+	--==[ SPLAT! v1.4.2 Site Analysis Report For: TEST_ANT ]==--
+
+---------------------------------------------------------------------------
+
+Site location: 52.9356 North / 3.9790 West (52° 56' 8" N / 3° 58' 44" W)
+Ground elevation: 633.20 feet AMSL
+Antenna height: 67.26 feet AGL / 700.46 feet AMSL
+Antenna height above average terrain: -216.27 feet
+
+Average terrain at   0 degrees azimuth: 1451.98 feet AMSL
+Average terrain at  45 degrees azimuth: 1029.02 feet AMSL
+Average terrain at  90 degrees azimuth: 1399.56 feet AMSL
+Average terrain at 135 degrees azimuth: 1018.45 feet AMSL
+Average terrain at 180 degrees azimuth: 1501.08 feet AMSL
+Average terrain at 225 degrees azimuth: 384.58 feet AMSL
+Average terrain at 270 degrees azimuth: 87.07 feet AMSL
+Average terrain at 315 degrees azimuth: 462.05 feet AMSL
+
+---------------------------------------------------------------------------
+

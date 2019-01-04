@@ -1,0 +1,11 @@
+
+	--==[ SPLAT! v1.4.2 Site Analysis Report For: WNJU-DT ]==--
+
+---------------------------------------------------------------------------
+
+Site location: 40.8022 North / 74.2464 West (40° 48' 7" N / 74° 14' 46" W)
+Ground elevation: 0.00 feet AMSL
+Antenna height: 323.16 feet AGL / 323.16 feet AMSL
+
+---------------------------------------------------------------------------
+
